@@ -185,6 +185,7 @@ exclude:
   - README.md
   - CHANGELOG.md
   - LICENSE
+  - purgecss.js
   - rollup.config.js
   - node_modules
   - package*.json
